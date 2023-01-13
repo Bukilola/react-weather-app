@@ -9,19 +9,18 @@ export default function App() {
         <Weather defaultCity="Herzogenaurach" />
 
         <footer>
-          This project was created by{" "}
+          This project was coded by{" "}
           <a
             href="https://bukeysblog.wordpress.com/"
-            target="-blank"
+            target="_blank"
             rel="noreferrer"
           >
-            {" "}
             Arasanyin Olubukola
           </a>{" "}
-          ,{" "}
+          and is{" "}
           <a
             href="https://github.com/Bukilola/react-weather-app"
-            target="-blank"
+            target="_blank"
             rel="noreferrer"
           >
             open-sourced on GitHub
