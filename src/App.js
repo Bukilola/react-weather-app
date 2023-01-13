@@ -9,7 +9,7 @@ export default function App() {
         <Weather defaultCity="Herzogenaurach" />
 
         <footer>
-          This project was coded by{" "}
+          This project was created by{" "}
           <a
             href="https://bukeysblog.wordpress.com/"
             target="_blank"
@@ -17,7 +17,7 @@ export default function App() {
           >
             Arasanyin Olubukola
           </a>{" "}
-          and is{" "}
+          ,{" "}
           <a
             href="https://github.com/Bukilola/react-weather-app"
             target="_blank"
